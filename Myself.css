@@ -1,0 +1,40 @@
+
+
+.row {
+
+     display: flex;
+}
+
+
+.column {
+
+    flex: 33.33%;
+    padding: 5px;
+}
+
+
+
+
+
+h1 {
+    display: #000);
+    font-size: 2cm;
+    margin-block-start: 1cm;
+    margin-block-end: 1cm;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+
+h2 {
+    
+        display: block;
+        font-size: 1cm;
+        margin-block-start: 0.83cm;
+        margin-block-end: 0.83cm;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        font-weight: bold;
+        unicode-bidi: isolate;
+}
+
